@@ -1,5 +1,7 @@
 streamlit
-langchain==0.0.350
-openai==0.28.1
-chromadb
+langchain
+langchain-openai
+langchain-community
+langchain-chroma
 tiktoken
+openai
